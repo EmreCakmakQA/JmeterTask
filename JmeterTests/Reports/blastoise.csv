@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1610452172961,367,HTTP Request,200,OK,Google pokemon 1-1,text,true,,229389,272,3,3,https://pokeapi.co/api/v2/pokemon/blastoise,79,0,0
+1610452172961,79,HTTP Request-0,301,Moved Permanently,Google pokemon 1-1,,true,,615,136,3,3,http://pokeapi.co/api/v2/pokemon/blastoise,79,0,0
+1610452173040,288,HTTP Request-1,200,OK,Google pokemon 1-1,text,true,,228774,136,3,3,https://pokeapi.co/api/v2/pokemon/blastoise,83,0,0
+1610452173458,393,HTTP Request,200,OK,Google pokemon 1-2,text,true,,229383,272,3,3,https://pokeapi.co/api/v2/pokemon/blastoise,127,0,0
+1610452173458,127,HTTP Request-0,301,Moved Permanently,Google pokemon 1-2,,true,,617,136,3,3,http://pokeapi.co/api/v2/pokemon/blastoise,127,0,0
+1610452173586,265,HTTP Request-1,200,OK,Google pokemon 1-2,text,true,,228766,136,3,3,https://pokeapi.co/api/v2/pokemon/blastoise,91,0,0
+1610452174327,331,HTTP Request,200,OK,Google pokemon 1-3,text,true,,229385,272,3,3,https://pokeapi.co/api/v2/pokemon/blastoise,77,0,0
+1610452174327,77,HTTP Request-0,301,Moved Permanently,Google pokemon 1-3,,true,,617,136,3,3,http://pokeapi.co/api/v2/pokemon/blastoise,77,0,0
+1610452174404,254,HTTP Request-1,200,OK,Google pokemon 1-3,text,true,,228768,136,3,3,https://pokeapi.co/api/v2/pokemon/blastoise,82,0,0
+1610452176017,1555,HTTP Request,200,OK,Google pokemon 1-4,text,true,,229399,272,7,7,https://pokeapi.co/api/v2/pokemon/blastoise,158,0,0
+1610452176017,158,HTTP Request-0,301,Moved Permanently,Google pokemon 1-4,,true,,623,136,7,7,http://pokeapi.co/api/v2/pokemon/blastoise,158,0,0
+1610452176175,1397,HTTP Request-1,200,OK,Google pokemon 1-4,text,true,,228776,136,7,7,https://pokeapi.co/api/v2/pokemon/blastoise,411,0,0
+1610452176767,882,HTTP Request,200,OK,Google pokemon 1-5,text,true,,229391,272,7,7,https://pokeapi.co/api/v2/pokemon/blastoise,217,0,0
+1610452176767,217,HTTP Request-0,301,Moved Permanently,Google pokemon 1-5,,true,,615,136,7,7,http://pokeapi.co/api/v2/pokemon/blastoise,217,0,0
+1610452176984,665,HTTP Request-1,200,OK,Google pokemon 1-5,text,true,,228776,136,7,7,https://pokeapi.co/api/v2/pokemon/blastoise,190,0,0
+1610452177315,1476,HTTP Request,200,OK,Google pokemon 1-7,text,true,,229391,272,7,7,https://pokeapi.co/api/v2/pokemon/blastoise,182,0,0
+1610452177315,182,HTTP Request-0,301,Moved Permanently,Google pokemon 1-7,,true,,619,136,7,7,http://pokeapi.co/api/v2/pokemon/blastoise,182,0,0
+1610452177497,1294,HTTP Request-1,200,OK,Google pokemon 1-7,text,true,,228772,136,7,7,https://pokeapi.co/api/v2/pokemon/blastoise,156,0,0
+1610452177508,1297,HTTP Request,200,OK,Google pokemon 1-8,text,true,,229383,272,7,7,https://pokeapi.co/api/v2/pokemon/blastoise,137,0,0
+1610452177508,137,HTTP Request-0,301,Moved Permanently,Google pokemon 1-8,,true,,611,136,7,7,http://pokeapi.co/api/v2/pokemon/blastoise,137,0,0
+1610452177645,1160,HTTP Request-1,200,OK,Google pokemon 1-8,text,true,,228772,136,7,7,https://pokeapi.co/api/v2/pokemon/blastoise,150,0,0
+1610452177485,1372,HTTP Request,200,OK,Google pokemon 1-6,text,true,,229389,272,6,6,https://pokeapi.co/api/v2/pokemon/blastoise,120,0,0
+1610452177485,120,HTTP Request-0,301,Moved Permanently,Google pokemon 1-6,,true,,617,136,6,6,http://pokeapi.co/api/v2/pokemon/blastoise,120,0,0
+1610452177605,1252,HTTP Request-1,200,OK,Google pokemon 1-6,text,true,,228772,136,6,6,https://pokeapi.co/api/v2/pokemon/blastoise,92,0,0
+1610452178813,1115,HTTP Request,200,OK,Google pokemon 1-10,text,true,,229385,272,4,4,https://pokeapi.co/api/v2/pokemon/blastoise,180,0,0
+1610452178813,180,HTTP Request-0,301,Moved Permanently,Google pokemon 1-10,,true,,617,136,4,4,http://pokeapi.co/api/v2/pokemon/blastoise,180,0,0
+1610452178993,935,HTTP Request-1,200,OK,Google pokemon 1-10,text,true,,228768,136,4,4,https://pokeapi.co/api/v2/pokemon/blastoise,107,0,0
+1610452179783,458,HTTP Request,200,OK,Google pokemon 1-9,text,true,,229389,272,2,2,https://pokeapi.co/api/v2/pokemon/blastoise,141,0,0
+1610452179783,141,HTTP Request-0,301,Moved Permanently,Google pokemon 1-9,,true,,617,136,2,2,http://pokeapi.co/api/v2/pokemon/blastoise,141,0,0
+1610452179924,317,HTTP Request-1,200,OK,Google pokemon 1-9,text,true,,228772,136,2,2,https://pokeapi.co/api/v2/pokemon/blastoise,88,0,0

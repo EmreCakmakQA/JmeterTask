@@ -1,0 +1,120 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1610531700021,600,HTTP Request,200,OK,Thread Group 1-1,text,true,,192797,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,195,0,102
+1610531700021,195,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,617,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,195,0,102
+1610531700216,405,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192180,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,259,0,177
+1610531700622,641,Pikachu By Id,404,Not Found,Thread Group 1-1,text,false,,12729,244,1,1,https://pokeapi.co/pokemon/25,70,0,0
+1610531700622,70,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,605,122,1,1,http://pokeapi.co/pokemon/25,70,0,0
+1610531700692,571,Pikachu By Id-1,404,Not Found,Thread Group 1-1,text,false,,12124,122,1,1,https://pokeapi.co/pokemon/25,563,0,0
+1610531700019,1241,Parent,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-1,,false,,205526,512,1,1,null,265,6,102
+1610531755531,542,HTTP Request,200,OK,Thread Group 1-1,text,true,,192795,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,146,0,68
+1610531755531,146,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,621,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,146,0,68
+1610531755678,395,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192174,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,255,0,170
+1610531756074,303,Pikachu By Id,200,OK,Thread Group 1-1,text,true,,192738,258,1,1,https://pokeapi.co/api/v2/pokemon/25,72,0,0
+1610531756074,72,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,606,129,1,1,http://pokeapi.co/api/v2/pokemon/25,72,0,0
+1610531756147,230,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192132,129,1,1,https://pokeapi.co/api/v2/pokemon/25,87,0,0
+1610531755529,845,Parent,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,385533,526,1,1,null,218,4,68
+1610531966482,607,HTTP Request,200,OK,Thread Group 1-1,text,true,,192795,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,190,0,105
+1610531966482,190,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,611,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,190,0,105
+1610531966673,416,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192184,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,232,0,154
+1610531967090,290,Pikachu By Id,200,OK,Thread Group 1-1,text,false,path can not be null or empty,192744,258,1,1,https://pokeapi.co/api/v2/pokemon/25,72,0,0
+1610531967090,72,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,608,129,1,1,http://pokeapi.co/api/v2/pokemon/25,72,0,0
+1610531967163,217,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192136,129,1,1,https://pokeapi.co/api/v2/pokemon/25,80,0,0
+1610531966481,897,Parent,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-1,,false,,385539,526,1,1,null,262,5,105
+1610532187822,629,HTTP Request,200,OK,Thread Group 1-1,text,true,,192791,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,190,0,105
+1610532187822,190,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,613,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,190,0,105
+1610532188014,437,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192178,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,256,0,175
+1610532188451,288,Pikachu By Id,200,OK,Thread Group 1-1,text,false,path can not be null or empty,192740,258,1,1,https://pokeapi.co/api/v2/pokemon/25,71,0,0
+1610532188451,71,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,604,129,1,1,http://pokeapi.co/api/v2/pokemon/25,71,0,0
+1610532188523,216,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192136,129,1,1,https://pokeapi.co/api/v2/pokemon/25,78,0,0
+1610532187819,917,Parent,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-1,,false,,385531,526,1,1,null,261,5,105
+1610532462574,631,HTTP Request,200,OK,Thread Group 1-1,text,true,,192794,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,186,0,107
+1610532462574,186,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,615,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,186,0,107
+1610532462762,443,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192179,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,264,0,182
+1610532463206,299,Pikachu By Id,200,OK,Thread Group 1-1,text,true,,192746,258,1,1,https://pokeapi.co/api/v2/pokemon/25,76,0,0
+1610532463206,76,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,612,129,1,1,http://pokeapi.co/api/v2/pokemon/25,76,0,0
+1610532463282,223,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192134,129,1,1,https://pokeapi.co/api/v2/pokemon/25,80,0,0
+1610532462572,930,Parent,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,385540,526,1,1,null,262,17,107
+1610533161166,702,HTTP Request,200,OK,Thread Group 1-1,text,true,,192796,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,210,0,106
+1610533161166,210,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,619,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,210,0,106
+1610533161376,492,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192177,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,264,0,168
+1610533161868,389,Pikachu By Id,200,OK,Thread Group 1-1,text,true,,192754,258,1,1,https://pokeapi.co/api/v2/pokemon/25,115,0,0
+1610533161868,115,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,616,129,1,1,http://pokeapi.co/api/v2/pokemon/25,115,0,0
+1610533161983,274,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192138,129,1,1,https://pokeapi.co/api/v2/pokemon/25,90,0,0
+1610533161165,1091,Parent,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,385550,526,1,1,null,325,8,106
+1610534500931,754,HTTP Request,200,OK,Thread Group 1-1,text,true,,192796,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,311,0,216
+1610534500931,317,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,617,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,311,0,216
+1610534501252,433,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192179,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,335,0,246
+1610534501698,275,Pikachu By Id,200,OK,Thread Group 1-1,text,true,,192742,258,1,1,https://pokeapi.co/api/v2/pokemon/25,73,0,0
+1610534501698,73,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,608,129,1,1,http://pokeapi.co/api/v2/pokemon/25,73,0,0
+1610534501771,202,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192134,129,1,1,https://pokeapi.co/api/v2/pokemon/25,101,0,0
+1610534500881,1029,Parent,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,385538,526,1,1,null,384,244,216
+1610534738259,609,HTTP Request,200,OK,Thread Group 1-1,text,true,,192802,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,185,0,68
+1610534738259,185,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,619,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,185,0,68
+1610534738446,422,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192183,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,269,0,177
+1610534738869,263,Pikachu By Id,200,OK,Thread Group 1-1,text,true,,192746,258,1,1,https://pokeapi.co/api/v2/pokemon/25,86,0,0
+1610534738869,86,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,606,129,1,1,http://pokeapi.co/api/v2/pokemon/25,86,0,0
+1610534738955,177,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192140,129,1,1,https://pokeapi.co/api/v2/pokemon/25,88,0,0
+1610534738257,872,Parent,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,385548,526,1,1,null,271,13,68
+1610535523951,661,HTTP Request,200,OK,Thread Group 1-1,text,true,,192788,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,205,0,121
+1610535523951,205,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,611,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,205,0,121
+1610535524158,454,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192177,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,276,0,187
+1610535524613,285,Pikachu By Id,200,OK,Thread Group 1-1,text,false,"Value expected to be 'protect', but found '[]'",192750,258,1,1,https://pokeapi.co/api/v2/pokemon/25,67,0,0
+1610535524613,67,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,614,129,1,1,http://pokeapi.co/api/v2/pokemon/25,67,0,0
+1610535524680,218,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192136,129,1,1,https://pokeapi.co/api/v2/pokemon/25,127,0,0
+1610535523947,946,Parent,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-1,,false,,385538,526,1,1,null,272,531,121
+1610535539693,653,HTTP Request,200,OK,Thread Group 1-1,text,true,,192802,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,214,0,74
+1610535539693,214,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,623,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,214,0,74
+1610535539909,437,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192179,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,274,0,181
+1610535540347,230,Pikachu By Id,200,OK,Thread Group 1-1,text,false,"Value expected to be 'protect', but found '[]'",192746,258,1,1,https://pokeapi.co/api/v2/pokemon/25,64,0,0
+1610535540347,64,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,614,129,1,1,http://pokeapi.co/api/v2/pokemon/25,64,0,0
+1610535540411,166,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192132,129,1,1,https://pokeapi.co/api/v2/pokemon/25,71,0,0
+1610535539691,883,Parent,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-1,,false,,385548,526,1,1,null,278,49,74
+1610535606543,591,HTTP Request,200,OK,Thread Group 1-1,text,true,,192800,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,169,0,68
+1610535606543,169,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,619,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,169,0,68
+1610535606714,420,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192181,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,254,0,180
+1610535607135,239,Pikachu By Id,200,OK,Thread Group 1-1,text,false,"Value expected to be 'protect', but found '[""mimic""]'",192760,258,1,1,https://pokeapi.co/api/v2/pokemon/25,70,0,0
+1610535607135,70,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,616,129,1,1,http://pokeapi.co/api/v2/pokemon/25,70,0,0
+1610535607205,169,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192144,129,1,1,https://pokeapi.co/api/v2/pokemon/25,80,0,0
+1610535606541,830,Parent,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-1,,false,,385560,526,1,1,null,239,45,68
+1610535800889,551,HTTP Request,200,OK,Thread Group 1-1,text,true,,192790,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,147,0,63
+1610535800889,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,615,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,147,0,63
+1610535801038,402,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192175,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,229,0,151
+1610535801441,282,Pikachu By Id,200,OK,Thread Group 1-1,text,false,"Value expected to be 'protect', but found '[""mimic""]'",192746,258,1,1,https://pokeapi.co/api/v2/pokemon/25,74,0,0
+1610535801441,74,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,616,129,1,1,http://pokeapi.co/api/v2/pokemon/25,74,0,0
+1610535801516,207,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192130,129,1,1,https://pokeapi.co/api/v2/pokemon/25,101,0,0
+1610535800887,833,Parent,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-1,,false,,385536,526,1,1,null,221,11,63
+1610536215201,549,HTTP Request,200,OK,Thread Group 1-1,text,true,,192796,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,228,0,137
+1610536215201,228,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,615,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,228,0,137
+1610536215430,320,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192181,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,219,0,145
+1610536215751,251,Pikachu By Id,200,OK,Thread Group 1-1,text,false,"Value expected to be 'mega-punch', but found '[""pay-day""]'",192746,258,1,1,https://pokeapi.co/api/v2/pokemon/25,79,0,0
+1610536215751,79,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,612,129,1,1,http://pokeapi.co/api/v2/pokemon/25,79,0,0
+1610536215831,171,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192134,129,1,1,https://pokeapi.co/api/v2/pokemon/25,73,0,0
+1610536215199,800,Parent,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-1,,false,,385542,526,1,1,null,307,24,137
+1610536238388,550,HTTP Request,200,OK,Thread Group 1-1,text,true,,192792,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,188,0,79
+1610536238388,188,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,617,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,188,0,79
+1610536238577,361,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192175,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,276,0,197
+1610536238939,243,Pikachu By Id,200,OK,Thread Group 1-1,text,true,,192752,258,1,1,https://pokeapi.co/api/v2/pokemon/25,75,0,0
+1610536238939,75,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,614,129,1,1,http://pokeapi.co/api/v2/pokemon/25,75,0,0
+1610536239014,168,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192138,129,1,1,https://pokeapi.co/api/v2/pokemon/25,77,0,0
+1610536238386,793,Parent,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,385544,526,1,1,null,263,22,79
+1610536422340,513,HTTP Request,200,OK,Thread Group 1-1,text,true,,192788,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,142,0,58
+1610536422340,142,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,613,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,142,0,58
+1610536422483,370,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192175,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,255,0,162
+1610536422855,255,Pikachu By Id,200,OK,Thread Group 1-1,text,true,,192756,258,1,1,https://pokeapi.co/api/v2/pokemon/25,85,0,0
+1610536422855,85,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,616,129,1,1,http://pokeapi.co/api/v2/pokemon/25,85,0,0
+1610536422940,170,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192140,129,1,1,https://pokeapi.co/api/v2/pokemon/25,71,0,0
+1610536422339,768,Parent,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,385544,526,1,1,null,227,37,58
+1610536445738,563,HTTP Request,200,OK,Thread Group 1-1,text,true,,192798,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,160,0,81
+1610536445738,160,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,615,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,160,0,81
+1610536445899,402,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192183,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,300,0,191
+1610536446302,259,Pikachu By Id,200,OK,Thread Group 1-1,text,true,,192750,258,1,1,https://pokeapi.co/api/v2/pokemon/25,68,0,0
+1610536446302,68,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,608,129,1,1,http://pokeapi.co/api/v2/pokemon/25,68,0,0
+1610536446371,190,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192142,129,1,1,https://pokeapi.co/api/v2/pokemon/25,93,0,0
+1610536445737,822,Parent,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,385548,526,1,1,null,228,25,81
+1610536528463,651,HTTP Request,200,OK,Thread Group 1-1,text,true,,192792,268,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,305,0,193
+1610536528463,305,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,611,134,1,1,http://pokeapi.co/api/v2/pokemon/pikachu,305,0,193
+1610536528769,345,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,192181,134,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,255,0,178
+1610536529115,276,Pikachu By Id,200,OK,Thread Group 1-1,text,true,,192746,258,1,1,https://pokeapi.co/api/v2/pokemon/25,73,0,0
+1610536529115,73,Pikachu By Id-0,301,Moved Permanently,Thread Group 1-1,,true,,612,129,1,1,http://pokeapi.co/api/v2/pokemon/25,73,0,0
+1610536529188,203,Pikachu By Id-1,200,OK,Thread Group 1-1,text,true,,192134,129,1,1,https://pokeapi.co/api/v2/pokemon/25,94,0,0
+1610536528461,927,Parent,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,385538,526,1,1,null,378,10,193

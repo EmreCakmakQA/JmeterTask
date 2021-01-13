@@ -1,0 +1,403 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1610491116961,324,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-1,,true,,997,125,7,7,null,0,0,155
+1610491116961,324,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,324,0,155
+1610491117013,325,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-2,,true,,997,125,7,7,null,0,1,150
+1610491117014,325,HTTP Request,200,OK,Group of 20 1-2,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,325,0,150
+1610491117061,317,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-3,,true,,997,125,7,7,null,0,2,149
+1610491117063,317,HTTP Request,200,OK,Group of 20 1-3,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,317,0,149
+1610491117113,317,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-4,,true,,997,125,7,7,null,0,1,150
+1610491117114,317,HTTP Request,200,OK,Group of 20 1-4,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,317,0,150
+1610491117162,315,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-5,,true,,997,125,7,7,null,0,2,151
+1610491117163,315,HTTP Request,200,OK,Group of 20 1-5,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,315,0,151
+1610491117211,321,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-6,,true,,997,125,7,7,null,0,1,156
+1610491117212,321,HTTP Request,200,OK,Group of 20 1-6,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,321,0,156
+1610491117264,323,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-7,,true,,997,125,7,7,null,0,1,151
+1610491117265,323,HTTP Request,200,OK,Group of 20 1-7,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,323,0,151
+1610491117312,313,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-8,,true,,997,125,7,7,null,0,1,153
+1610491117313,313,HTTP Request,200,OK,Group of 20 1-8,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,313,0,153
+1610491117362,314,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-9,,true,,997,125,7,7,null,0,2,151
+1610491117364,314,HTTP Request,200,OK,Group of 20 1-9,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,314,0,151
+1610491117411,320,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-10,,true,,997,125,7,7,null,0,1,152
+1610491117412,320,HTTP Request,200,OK,Group of 20 1-10,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,320,0,152
+1610491117462,308,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-11,,true,,997,125,7,7,null,0,2,149
+1610491117463,308,HTTP Request,200,OK,Group of 20 1-11,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,308,0,149
+1610491117511,309,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-12,,true,,997,125,7,7,null,0,1,150
+1610491117512,309,HTTP Request,200,OK,Group of 20 1-12,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,309,0,150
+1610491117560,311,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-13,,true,,997,125,7,7,null,0,2,150
+1610491117561,311,HTTP Request,200,OK,Group of 20 1-13,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,311,0,150
+1610491117612,310,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-14,,true,,997,125,7,7,null,0,0,151
+1610491117612,310,HTTP Request,200,OK,Group of 20 1-14,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,310,0,151
+1610491117662,309,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-15,,true,,997,125,6,6,null,0,1,151
+1610491117663,309,HTTP Request,200,OK,Group of 20 1-15,text,true,,997,125,6,6,http://ghibliapi.herokuapp.com/,309,0,151
+1610491117711,345,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-16,,true,,997,125,5,5,null,0,1,186
+1610491117712,345,HTTP Request,200,OK,Group of 20 1-16,text,true,,997,125,5,5,http://ghibliapi.herokuapp.com/,345,0,186
+1610491117762,308,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-17,,true,,997,125,4,4,null,0,1,149
+1610491117763,308,HTTP Request,200,OK,Group of 20 1-17,text,true,,997,125,4,4,http://ghibliapi.herokuapp.com/,308,0,149
+1610491117811,311,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-18,,true,,997,125,3,3,null,0,1,152
+1610491117812,311,HTTP Request,200,OK,Group of 20 1-18,text,true,,997,125,3,3,http://ghibliapi.herokuapp.com/,311,0,152
+1610491117860,306,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-19,,true,,997,125,2,2,null,0,1,150
+1610491117861,306,HTTP Request,200,OK,Group of 20 1-19,text,true,,997,125,2,2,http://ghibliapi.herokuapp.com/,306,0,150
+1610491117912,311,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-20,,true,,997,125,1,1,null,0,2,151
+1610491117914,311,HTTP Request,200,OK,Group of 20 1-20,text,true,,997,125,1,1,http://ghibliapi.herokuapp.com/,311,0,151
+1610491210157,358,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-1,,true,,997,125,8,8,null,0,2,191
+1610491210158,358,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,358,0,191
+1610491210208,307,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-2,,true,,997,125,8,8,null,0,2,147
+1610491210209,307,HTTP Request,200,OK,Group of 20 1-2,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,307,0,147
+1610491210258,313,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-3,,true,,997,125,7,7,null,0,1,153
+1610491210259,313,HTTP Request,200,OK,Group of 20 1-3,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,313,0,153
+1610491210307,321,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-4,,true,,997,125,7,7,null,0,1,153
+1610491210308,321,HTTP Request,200,OK,Group of 20 1-4,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,321,0,153
+1610491210358,314,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-5,,true,,997,125,7,7,null,0,2,156
+1610491210360,314,HTTP Request,200,OK,Group of 20 1-5,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,314,0,156
+1610491210409,325,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-6,,true,,997,125,7,7,null,0,1,150
+1610491210410,325,HTTP Request,200,OK,Group of 20 1-6,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,325,0,150
+1610491210458,318,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-7,,true,,997,125,7,7,null,0,2,153
+1610491210459,318,HTTP Request,200,OK,Group of 20 1-7,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,318,0,153
+1610491210511,318,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-8,,true,,997,125,7,7,null,0,0,155
+1610491210511,318,HTTP Request,200,OK,Group of 20 1-8,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,318,0,155
+1610491210557,313,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-9,,true,,997,125,7,7,null,0,1,149
+1610491210558,313,HTTP Request,200,OK,Group of 20 1-9,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,312,0,149
+1610491210607,314,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-10,,true,,997,125,7,7,null,0,2,150
+1610491210608,314,HTTP Request,200,OK,Group of 20 1-10,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,314,0,150
+1610491210658,409,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-11,,true,,997,125,9,9,null,0,2,148
+1610491210708,359,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-12,,true,,997,125,9,9,null,0,2,151
+1610491210660,409,HTTP Request,200,OK,Group of 20 1-11,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,409,0,148
+1610491210710,359,HTTP Request,200,OK,Group of 20 1-12,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,359,0,151
+1610491210758,451,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-13,,true,,997,125,8,8,null,0,2,282
+1610491210760,451,HTTP Request,200,OK,Group of 20 1-13,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,451,0,282
+1610491210858,357,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-15,,true,,997,125,7,7,null,0,1,190
+1610491210809,405,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-14,,true,,997,125,7,7,null,0,2,238
+1610491210859,357,HTTP Request,200,OK,Group of 20 1-15,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,357,0,190
+1610491210811,405,HTTP Request,200,OK,Group of 20 1-14,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,405,0,238
+1610491210908,311,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-16,,true,,997,125,5,5,null,0,1,153
+1610491210909,311,HTTP Request,200,OK,Group of 20 1-16,text,true,,997,125,5,5,http://ghibliapi.herokuapp.com/,311,0,153
+1610491210958,321,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-17,,true,,997,125,4,4,null,0,1,153
+1610491210959,321,HTTP Request,200,OK,Group of 20 1-17,text,true,,997,125,4,4,http://ghibliapi.herokuapp.com/,321,0,153
+1610491211008,315,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-18,,true,,997,125,3,3,null,0,2,154
+1610491211010,315,HTTP Request,200,OK,Group of 20 1-18,text,true,,997,125,3,3,http://ghibliapi.herokuapp.com/,315,0,154
+1610491211058,311,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-19,,true,,997,125,2,2,null,0,2,148
+1610491211060,311,HTTP Request,200,OK,Group of 20 1-19,text,true,,997,125,2,2,http://ghibliapi.herokuapp.com/,311,0,148
+1610491211109,321,Parent,200,"Number of samples in transaction : 1, number of failing samples : 0",Group of 20 1-20,,true,,997,125,1,1,null,0,3,153
+1610491211111,321,HTTP Request,200,OK,Group of 20 1-20,text,true,,997,125,1,1,http://ghibliapi.herokuapp.com/,321,0,153
+1610492919708,494,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-2,,true,,3272,292,11,11,null,0,1,166
+1610492919709,327,HTTP Request,200,OK,Group of 20 1-2,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,327,0,166
+1610492920036,167,Totoro by id,200,OK,Group of 20 1-2,text,true,,2275,167,11,11,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,167,0,0
+1610492919659,550,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-1,,true,,3272,292,11,11,null,0,2,216
+1610492919661,379,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,379,0,216
+1610492920040,171,Totoro by id,200,OK,Group of 20 1-1,text,true,,2275,167,11,11,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,171,0,0
+1610492919759,477,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-3,,true,,3272,292,10,10,null,0,1,147
+1610492919760,316,HTTP Request,200,OK,Group of 20 1-3,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,316,0,147
+1610492920076,161,Totoro by id,200,OK,Group of 20 1-3,text,true,,2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,161,0,0
+1610492919809,469,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-4,,true,,3272,292,10,10,null,0,2,148
+1610492919810,310,HTTP Request,200,OK,Group of 20 1-4,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,310,0,148
+1610492920121,159,Totoro by id,200,OK,Group of 20 1-4,text,true,,2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,158,0,0
+1610492919861,477,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-5,,true,,3272,292,10,10,null,0,2,152
+1610492919862,313,HTTP Request,200,OK,Group of 20 1-5,text,true,,997,125,11,11,http://ghibliapi.herokuapp.com/,313,0,152
+1610492920176,164,Totoro by id,200,OK,Group of 20 1-5,text,true,,2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,164,0,0
+1610492919909,486,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-6,,true,,3272,292,10,10,null,0,1,151
+1610492919910,315,HTTP Request,200,OK,Group of 20 1-6,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,315,0,151
+1610492920225,171,Totoro by id,200,OK,Group of 20 1-6,text,true,,2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,171,0,0
+1610492919962,472,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-7,,true,,3272,292,10,10,null,0,2,149
+1610492919963,311,HTTP Request,200,OK,Group of 20 1-7,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,311,0,149
+1610492920275,161,Totoro by id,200,OK,Group of 20 1-7,text,true,,2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,161,0,0
+1610492920011,481,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-8,,true,,3272,292,10,10,null,0,1,151
+1610492920012,312,HTTP Request,200,OK,Group of 20 1-8,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,312,0,151
+1610492920324,169,Totoro by id,200,OK,Group of 20 1-8,text,true,,2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,169,0,0
+1610492920059,482,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-9,,true,,3272,292,10,10,null,0,2,154
+1610492920060,318,HTTP Request,200,OK,Group of 20 1-9,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,318,0,154
+1610492920378,164,Totoro by id,200,OK,Group of 20 1-9,text,true,,2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,164,0,0
+1610492920110,477,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-10,,true,,3272,292,10,10,null,0,1,154
+1610492920111,313,HTTP Request,200,OK,Group of 20 1-10,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,313,0,154
+1610492920424,164,Totoro by id,200,OK,Group of 20 1-10,text,true,,2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,164,0,0
+1610492920159,511,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-11,,true,,3272,292,10,10,null,0,2,156
+1610492920160,317,HTTP Request,200,OK,Group of 20 1-11,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,317,0,156
+1610492920478,194,Totoro by id,200,OK,Group of 20 1-11,text,true,,2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,193,0,0
+1610492920209,504,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-12,,true,,3272,292,9,9,null,0,2,151
+1610492920210,314,HTTP Request,200,OK,Group of 20 1-12,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,314,0,151
+1610492920525,190,Totoro by id,200,OK,Group of 20 1-12,text,true,,2275,167,9,9,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,190,0,0
+1610492920259,471,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-13,,true,,3272,292,8,8,null,0,2,151
+1610492920260,308,HTTP Request,200,OK,Group of 20 1-13,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,308,0,151
+1610492920569,163,Totoro by id,200,OK,Group of 20 1-13,text,true,,2275,167,8,8,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,163,0,0
+1610492920310,521,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-14,,true,,3272,292,7,7,null,0,3,153
+1610492920311,358,HTTP Request,200,OK,Group of 20 1-14,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,358,0,153
+1610492920670,163,Totoro by id,200,OK,Group of 20 1-14,text,true,,2275,167,7,7,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,163,0,0
+1610492920359,523,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-15,,true,,3272,292,6,6,null,0,2,154
+1610492920360,355,HTTP Request,200,OK,Group of 20 1-15,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,355,0,154
+1610492920716,168,Totoro by id,200,OK,Group of 20 1-15,text,true,,2275,167,6,6,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,168,0,0
+1610492920410,478,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-16,,true,,3272,292,5,5,null,0,2,154
+1610492920412,311,HTTP Request,200,OK,Group of 20 1-16,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,311,0,154
+1610492920723,167,Totoro by id,200,OK,Group of 20 1-16,text,true,,2275,167,5,5,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,167,0,0
+1610492920459,622,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-17,,true,,3272,292,4,4,null,0,2,183
+1610492920460,347,HTTP Request,200,OK,Group of 20 1-17,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,347,0,183
+1610492920807,275,Totoro by id,200,OK,Group of 20 1-17,text,true,,2275,167,4,4,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,275,0,0
+1610492920509,573,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-18,,true,,3272,292,3,3,null,0,3,204
+1610492920510,372,HTTP Request,200,OK,Group of 20 1-18,text,true,,997,125,6,6,http://ghibliapi.herokuapp.com/,372,0,204
+1610492920883,201,Totoro by id,200,OK,Group of 20 1-18,text,true,,2275,167,3,3,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,201,0,0
+1610492920559,527,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-19,,true,,3272,292,2,2,null,0,2,158
+1610492920560,326,HTTP Request,200,OK,Group of 20 1-19,text,true,,997,125,5,5,http://ghibliapi.herokuapp.com/,326,0,158
+1610492920887,201,Totoro by id,200,OK,Group of 20 1-19,text,true,,2275,167,2,2,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,201,0,0
+1610492920610,490,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-20,,true,,3272,292,1,1,null,0,2,156
+1610492920611,324,HTTP Request,200,OK,Group of 20 1-20,text,true,,997,125,4,4,http://ghibliapi.herokuapp.com/,324,0,156
+1610492920935,166,Totoro by id,200,OK,Group of 20 1-20,text,true,,2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,166,0,0
+1610493118664,479,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-2,,false,,3272,292,12,12,null,0,50,150
+1610493118665,312,HTTP Request,200,OK,Group of 20 1-2,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,312,0,150
+1610493118613,526,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-1,,false,,3272,292,12,12,null,0,54,192
+1610493118978,167,Totoro by id,200,OK,Group of 20 1-2,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,11,11,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,167,0,0
+1610493118615,354,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,354,0,192
+1610493118969,172,Totoro by id,200,OK,Group of 20 1-1,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,11,11,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,172,0,0
+1610493118712,488,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-3,,false,,3272,292,10,10,null,0,3,150
+1610493118713,323,HTTP Request,200,OK,Group of 20 1-3,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,323,0,150
+1610493119037,165,Totoro by id,200,OK,Group of 20 1-3,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,165,0,0
+1610493118763,476,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-4,,false,,3272,292,10,10,null,0,3,150
+1610493118764,310,HTTP Request,200,OK,Group of 20 1-4,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,310,0,150
+1610493119075,166,Totoro by id,200,OK,Group of 20 1-4,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,166,0,0
+1610493118813,491,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-5,,false,,3272,292,10,10,null,0,2,150
+1610493118814,327,HTTP Request,200,OK,Group of 20 1-5,text,true,,997,125,11,11,http://ghibliapi.herokuapp.com/,327,0,150
+1610493119142,164,Totoro by id,200,OK,Group of 20 1-5,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,164,0,0
+1610493118863,482,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-6,,false,,3272,292,10,10,null,0,1,150
+1610493118864,321,HTTP Request,200,OK,Group of 20 1-6,text,true,,997,125,12,12,http://ghibliapi.herokuapp.com/,321,0,150
+1610493119185,161,Totoro by id,200,OK,Group of 20 1-6,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,161,0,0
+1610493118912,473,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-7,,false,,3272,292,10,10,null,0,1,150
+1610493118912,313,HTTP Request,200,OK,Group of 20 1-7,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,313,0,150
+1610493119226,160,Totoro by id,200,OK,Group of 20 1-7,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,160,0,0
+1610493118966,480,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-8,,false,,3272,292,10,10,null,0,2,148
+1610493118967,319,HTTP Request,200,OK,Group of 20 1-8,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,319,0,148
+1610493119286,161,Totoro by id,200,OK,Group of 20 1-8,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,161,0,0
+1610493119016,491,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-9,,false,,3272,292,10,10,null,0,1,151
+1610493119016,318,HTTP Request,200,OK,Group of 20 1-9,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,318,0,151
+1610493119334,173,Totoro by id,200,OK,Group of 20 1-9,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,173,0,0
+1610493119063,487,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-10,,false,,3272,292,10,10,null,0,1,152
+1610493119064,326,HTTP Request,200,OK,Group of 20 1-10,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,326,0,152
+1610493119390,161,Totoro by id,200,OK,Group of 20 1-10,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,161,0,0
+1610493119113,476,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-11,,false,,3272,292,10,10,null,0,2,149
+1610493119114,310,HTTP Request,200,OK,Group of 20 1-11,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,310,0,149
+1610493119424,166,Totoro by id,200,OK,Group of 20 1-11,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,166,0,0
+1610493119163,478,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-12,,false,,3272,292,9,9,null,0,2,149
+1610493119164,313,HTTP Request,200,OK,Group of 20 1-12,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,313,0,149
+1610493119477,165,Totoro by id,200,OK,Group of 20 1-12,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,9,9,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,165,0,0
+1610493119213,496,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-13,,false,,3272,292,8,8,null,0,2,152
+1610493119214,308,HTTP Request,200,OK,Group of 20 1-13,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,308,0,152
+1610493119522,188,Totoro by id,200,OK,Group of 20 1-13,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,8,8,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,188,0,0
+1610493119263,484,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-14,,false,,3272,292,7,7,null,0,2,150
+1610493119264,312,HTTP Request,200,OK,Group of 20 1-14,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,312,0,150
+1610493119576,172,Totoro by id,200,OK,Group of 20 1-14,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,7,7,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,172,0,0
+1610493119312,479,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-15,,false,,3272,292,6,6,null,0,2,153
+1610493119312,317,HTTP Request,200,OK,Group of 20 1-15,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,317,0,153
+1610493119630,162,Totoro by id,200,OK,Group of 20 1-15,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,6,6,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,162,0,0
+1610493119364,476,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-16,,false,,3272,292,5,5,null,0,2,150
+1610493119364,310,HTTP Request,200,OK,Group of 20 1-16,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,310,0,150
+1610493119675,166,Totoro by id,200,OK,Group of 20 1-16,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,5,5,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,166,0,0
+1610493119413,483,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-17,,false,,3272,292,4,4,null,0,1,150
+1610493119413,313,HTTP Request,200,OK,Group of 20 1-17,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,313,0,150
+1610493119727,170,Totoro by id,200,OK,Group of 20 1-17,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,4,4,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,170,0,0
+1610493119463,478,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-18,,false,,3272,292,3,3,null,0,2,149
+1610493119464,309,HTTP Request,200,OK,Group of 20 1-18,text,true,,997,125,6,6,http://ghibliapi.herokuapp.com/,309,0,149
+1610493119774,169,Totoro by id,200,OK,Group of 20 1-18,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,3,3,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,169,0,0
+1610493119511,486,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-19,,false,,3272,292,2,2,null,0,2,149
+1610493119512,313,HTTP Request,200,OK,Group of 20 1-19,text,true,,997,125,5,5,http://ghibliapi.herokuapp.com/,313,0,149
+1610493119825,173,Totoro by id,200,OK,Group of 20 1-19,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,2,2,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,173,0,0
+1610493119563,473,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-20,,false,,3272,292,1,1,null,0,1,155
+1610493119563,314,HTTP Request,200,OK,Group of 20 1-20,text,true,,997,125,4,4,http://ghibliapi.herokuapp.com/,314,0,155
+1610493119877,159,Totoro by id,200,OK,Group of 20 1-20,text,false,"Value expected to match regexp 'My Neighbor Totoro
+', but it did not match: 'My Neighbor Totoro'",2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,159,0,0
+1610493203859,522,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-1,,false,,3272,292,11,11,null,0,2,189
+1610493203860,358,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,358,0,189
+1610493204218,164,Totoro by id,200,OK,Group of 20 1-1,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,11,11,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,164,0,0
+1610493203910,475,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-2,,false,,3272,292,10,10,null,0,2,148
+1610493203911,315,HTTP Request,200,OK,Group of 20 1-2,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,315,0,148
+1610493204226,160,Totoro by id,200,OK,Group of 20 1-2,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,160,0,0
+1610493203959,483,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-3,,false,,3272,292,10,10,null,0,2,148
+1610493203959,315,HTTP Request,200,OK,Group of 20 1-3,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,315,0,148
+1610493204274,168,Totoro by id,200,OK,Group of 20 1-3,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,168,0,0
+1610493204011,479,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-4,,false,,3272,292,10,10,null,0,3,151
+1610493204012,319,HTTP Request,200,OK,Group of 20 1-4,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,319,0,151
+1610493204332,160,Totoro by id,200,OK,Group of 20 1-4,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,160,0,0
+1610493204060,474,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-5,,false,,3272,292,10,10,null,0,3,153
+1610493204061,313,HTTP Request,200,OK,Group of 20 1-5,text,true,,997,125,11,11,http://ghibliapi.herokuapp.com/,313,0,153
+1610493204375,161,Totoro by id,200,OK,Group of 20 1-5,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,161,0,0
+1610493204110,479,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-6,,false,,3272,292,10,10,null,0,1,151
+1610493204110,314,HTTP Request,200,OK,Group of 20 1-6,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,314,0,151
+1610493204425,165,Totoro by id,200,OK,Group of 20 1-6,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,165,0,0
+1610493204159,491,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-7,,false,,3272,292,10,10,null,0,2,151
+1610493204160,318,HTTP Request,200,OK,Group of 20 1-7,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,318,0,151
+1610493204479,173,Totoro by id,200,OK,Group of 20 1-7,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,173,0,0
+1610493204209,548,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-8,,false,,3272,292,11,11,null,0,2,154
+1610493204210,320,HTTP Request,200,OK,Group of 20 1-8,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,320,0,154
+1610493204531,228,Totoro by id,200,OK,Group of 20 1-8,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,11,11,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,228,0,0
+1610493204260,510,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-9,,false,,3272,292,11,11,null,0,3,153
+1610493204261,313,HTTP Request,200,OK,Group of 20 1-9,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,313,0,153
+1610493204575,197,Totoro by id,200,OK,Group of 20 1-9,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,11,11,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,197,0,0
+1610493204310,512,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-10,,false,,3272,292,11,11,null,0,2,155
+1610493204311,329,HTTP Request,200,OK,Group of 20 1-10,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,329,0,155
+1610493204640,183,Totoro by id,200,OK,Group of 20 1-10,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,11,11,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,183,0,0
+1610493204360,536,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-11,,false,,3272,292,10,10,null,0,2,155
+1610493204361,365,HTTP Request,200,OK,Group of 20 1-11,text,true,,997,125,11,11,http://ghibliapi.herokuapp.com/,364,0,155
+1610493204726,171,Totoro by id,200,OK,Group of 20 1-11,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,171,0,0
+1610493204410,517,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-12,,false,,3272,292,9,9,null,0,0,150
+1610493204410,350,HTTP Request,200,OK,Group of 20 1-12,text,true,,997,125,11,11,http://ghibliapi.herokuapp.com/,350,0,150
+1610493204760,167,Totoro by id,200,OK,Group of 20 1-12,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,9,9,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,167,0,0
+1610493204461,512,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-13,,false,,3272,292,8,8,null,0,2,149
+1610493204462,333,HTTP Request,200,OK,Group of 20 1-13,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,333,0,149
+1610493204795,179,Totoro by id,200,OK,Group of 20 1-13,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,8,8,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,179,0,0
+1610493204512,570,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-14,,false,,3272,292,7,7,null,0,2,212
+1610493204513,384,HTTP Request,200,OK,Group of 20 1-14,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,384,0,212
+1610493204898,186,Totoro by id,200,OK,Group of 20 1-14,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,7,7,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,185,0,0
+1610493204560,535,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-15,,false,,3272,292,6,6,null,0,1,197
+1610493204561,353,HTTP Request,200,OK,Group of 20 1-15,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,353,0,197
+1610493204914,182,Totoro by id,200,OK,Group of 20 1-15,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,6,6,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,182,0,0
+1610493204609,531,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-16,,false,,3272,292,5,5,null,0,1,186
+1610493204609,365,HTTP Request,200,OK,Group of 20 1-16,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,365,0,186
+1610493204974,166,Totoro by id,200,OK,Group of 20 1-16,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,5,5,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,166,0,0
+1610493204661,515,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-17,,false,,3272,292,4,4,null,0,2,161
+1610493204662,335,HTTP Request,200,OK,Group of 20 1-17,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,335,0,161
+1610493204997,180,Totoro by id,200,OK,Group of 20 1-17,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,4,4,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,180,0,0
+1610493204710,493,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-18,,false,,3272,292,3,3,null,0,2,169
+1610493204711,330,HTTP Request,200,OK,Group of 20 1-18,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,330,0,169
+1610493205041,163,Totoro by id,200,OK,Group of 20 1-18,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,3,3,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,163,0,0
+1610493204759,508,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-19,,false,,3272,292,2,2,null,0,2,154
+1610493204760,343,HTTP Request,200,OK,Group of 20 1-19,text,true,,997,125,5,5,http://ghibliapi.herokuapp.com/,343,0,154
+1610493205104,165,Totoro by id,200,OK,Group of 20 1-19,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,2,2,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,165,0,0
+1610493204811,479,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-20,,false,,3272,292,1,1,null,0,2,149
+1610493204812,313,HTTP Request,200,OK,Group of 20 1-20,text,true,,997,125,5,5,http://ghibliapi.herokuapp.com/,313,0,149
+1610493205126,166,Totoro by id,200,OK,Group of 20 1-20,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,166,0,0
+1610493312926,553,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-1,,false,,3272,292,12,12,null,0,5,186
+1610493312928,364,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,364,0,186
+1610493313293,189,Totoro by id,200,OK,Group of 20 1-1,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,12,12,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,189,0,0
+1610493312976,503,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-2,,false,,3272,292,12,12,null,0,5,152
+1610493312978,337,HTTP Request,200,OK,Group of 20 1-2,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,337,0,152
+1610493313316,166,Totoro by id,200,OK,Group of 20 1-2,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,12,12,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,166,0,0
+1610493313027,483,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-3,,false,,3272,292,10,10,null,0,3,150
+1610493313028,313,HTTP Request,200,OK,Group of 20 1-3,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,313,0,150
+1610493313342,170,Totoro by id,200,OK,Group of 20 1-3,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,170,0,0
+1610493313077,489,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-4,,false,,3272,292,10,10,null,0,2,154
+1610493313078,316,HTTP Request,200,OK,Group of 20 1-4,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,315,0,154
+1610493313394,173,Totoro by id,200,OK,Group of 20 1-4,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,173,0,0
+1610493313128,480,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-5,,false,,3272,292,10,10,null,0,3,151
+1610493313129,312,HTTP Request,200,OK,Group of 20 1-5,text,true,,997,125,11,11,http://ghibliapi.herokuapp.com/,312,0,151
+1610493313442,168,Totoro by id,200,OK,Group of 20 1-5,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,168,0,0
+1610493313176,492,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-6,,false,,3272,292,10,10,null,0,3,150
+1610493313177,327,HTTP Request,200,OK,Group of 20 1-6,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,327,0,150
+1610493313505,165,Totoro by id,200,OK,Group of 20 1-6,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,165,0,0
+1610493313227,469,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-7,,false,,3272,292,10,10,null,0,4,151
+1610493313229,310,HTTP Request,200,OK,Group of 20 1-7,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,310,0,151
+1610493313540,159,Totoro by id,200,OK,Group of 20 1-7,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,159,0,0
+1610493313277,477,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-8,,false,,3272,292,10,10,null,0,3,150
+1610493313279,314,HTTP Request,200,OK,Group of 20 1-8,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,314,0,150
+1610493313593,163,Totoro by id,200,OK,Group of 20 1-8,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,163,0,0
+1610493313327,480,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-9,,false,,3272,292,10,10,null,0,3,153
+1610493313329,318,HTTP Request,200,OK,Group of 20 1-9,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,318,0,153
+1610493313647,162,Totoro by id,200,OK,Group of 20 1-9,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,162,0,0
+1610493313377,485,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-10,,false,,3272,292,10,10,null,0,1,153
+1610493313378,320,HTTP Request,200,OK,Group of 20 1-10,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,320,0,153
+1610493313698,165,Totoro by id,200,OK,Group of 20 1-10,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,165,0,0
+1610493313426,479,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-11,,false,,3272,292,10,10,null,0,3,153
+1610493313428,316,HTTP Request,200,OK,Group of 20 1-11,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,316,0,153
+1610493313745,163,Totoro by id,200,OK,Group of 20 1-11,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,10,10,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,163,0,0
+1610493313476,487,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-12,,false,,3272,292,9,9,null,0,3,148
+1610493313477,326,HTTP Request,200,OK,Group of 20 1-12,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,326,0,148
+1610493313804,161,Totoro by id,200,OK,Group of 20 1-12,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,9,9,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,161,0,0
+1610493313527,489,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-13,,false,,3272,292,8,8,null,0,3,153
+1610493313528,312,HTTP Request,200,OK,Group of 20 1-13,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,312,0,153
+1610493313841,177,Totoro by id,200,OK,Group of 20 1-13,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,8,8,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,177,0,0
+1610493313576,479,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-14,,false,,3272,292,7,7,null,0,2,153
+1610493313577,316,HTTP Request,200,OK,Group of 20 1-14,text,true,,997,125,10,10,http://ghibliapi.herokuapp.com/,316,0,153
+1610493313893,163,Totoro by id,200,OK,Group of 20 1-14,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,7,7,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,163,0,0
+1610493313627,474,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-15,,false,,3272,292,6,6,null,0,3,153
+1610493313628,312,HTTP Request,200,OK,Group of 20 1-15,text,true,,997,125,9,9,http://ghibliapi.herokuapp.com/,312,0,153
+1610493313941,162,Totoro by id,200,OK,Group of 20 1-15,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,6,6,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,162,0,0
+1610493313677,516,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-16,,false,,3272,292,5,5,null,0,3,151
+1610493313678,318,HTTP Request,200,OK,Group of 20 1-16,text,true,,997,125,8,8,http://ghibliapi.herokuapp.com/,318,0,151
+1610493313997,198,Totoro by id,200,OK,Group of 20 1-16,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,5,5,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,198,0,0
+1610493313726,493,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-17,,false,,3272,292,4,4,null,0,3,151
+1610493313727,313,HTTP Request,200,OK,Group of 20 1-17,text,true,,997,125,7,7,http://ghibliapi.herokuapp.com/,313,0,151
+1610493314041,180,Totoro by id,200,OK,Group of 20 1-17,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,4,4,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,180,0,0
+1610493313778,477,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-18,,false,,3272,292,3,3,null,0,3,151
+1610493313779,316,HTTP Request,200,OK,Group of 20 1-18,text,true,,997,125,6,6,http://ghibliapi.herokuapp.com/,316,0,151
+1610493314096,161,Totoro by id,200,OK,Group of 20 1-18,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,3,3,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,161,0,0
+1610493313825,485,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-19,,false,,3272,292,2,2,null,0,2,149
+1610493313826,321,HTTP Request,200,OK,Group of 20 1-19,text,true,,997,125,5,5,http://ghibliapi.herokuapp.com/,321,0,149
+1610493314147,164,Totoro by id,200,OK,Group of 20 1-19,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,2,2,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,164,0,0
+1610493313877,480,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-20,,false,,3272,292,1,1,null,0,3,154
+1610493313878,319,HTTP Request,200,OK,Group of 20 1-20,text,true,,997,125,4,4,http://ghibliapi.herokuapp.com/,319,0,154
+1610493314198,161,Totoro by id,200,OK,Group of 20 1-20,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,161,0,0
+1610493369733,665,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-1,,false,,3272,292,1,1,null,0,3,253
+1610493369735,459,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,1,1,http://ghibliapi.herokuapp.com/,459,0,253
+1610493370195,206,Totoro by id,200,OK,Group of 20 1-1,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,206,0,0
+1610495183030,821,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-1,,false,,3272,292,1,1,null,0,3,300
+1610495183031,561,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,1,1,http://ghibliapi.herokuapp.com/,561,0,300
+1610495183592,260,Totoro by id,200,OK,Group of 20 1-1,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,260,0,0
+1610529656446,555,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-1,,false,,3272,292,1,1,null,0,145,212
+1610529656500,390,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,1,1,http://ghibliapi.herokuapp.com/,375,0,212
+1610529656892,165,Totoro by id,200,OK,Group of 20 1-1,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,165,0,0
+1610530672126,499,Parent,200,"Number of samples in transaction : 2, number of failing samples : 1",Group of 20 1-1,,false,,3272,292,1,1,null,0,733,186
+1610530672128,340,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,1,1,http://ghibliapi.herokuapp.com/,340,0,186
+1610530672469,159,Totoro by id,200,OK,Group of 20 1-1,text,false,"Value expected to be 'My Neighbor Totoro
+', but found 'My Neighbor Totoro'",2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,158,0,0
+1610530800707,556,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-1,,true,,3272,292,1,1,null,0,7,183
+1610530800709,391,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,1,1,http://ghibliapi.herokuapp.com/,391,0,183
+1610530801101,165,Totoro by id,200,OK,Group of 20 1-1,text,true,,2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,165,0,0
+1610532363536,513,Parent,200,"Number of samples in transaction : 2, number of failing samples : 0",Group of 20 1-1,,true,,3272,292,1,1,null,0,5,188
+1610532363537,349,HTTP Request,200,OK,Group of 20 1-1,text,true,,997,125,1,1,http://ghibliapi.herokuapp.com/,349,0,188
+1610532363887,164,Totoro by id,200,OK,Group of 20 1-1,text,true,,2275,167,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,164,0,0

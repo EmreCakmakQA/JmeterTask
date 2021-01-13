@@ -1,0 +1,49 @@
+2021-01-13 15:03:37,694 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-01-13 15:03:37,716 INFO o.a.j.JMeter: Loading user properties from: C:\Program Files\Apache Software Foundation\apache-jmeter-5.4\bin\user.properties
+2021-01-13 15:03:37,717 INFO o.a.j.JMeter: Loading system properties from: C:\Program Files\Apache Software Foundation\apache-jmeter-5.4\bin\system.properties
+2021-01-13 15:03:37,723 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: Version 5.4
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: java.version=14.0.2
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: os.name=Windows 10
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: os.arch=amd64
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: os.version=10.0
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: java.awt.headless=null
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-01-13 15:03:37,724 INFO o.a.j.JMeter: Available Processors =12
+2021-01-13 15:03:37,733 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-01-13 15:03:37,733 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-01-13 15:03:37,733 INFO o.a.j.JMeter: JMeterHome=C:\Program Files\Apache Software Foundation\apache-jmeter-5.4
+2021-01-13 15:03:37,733 INFO o.a.j.JMeter: user.dir  =C:\Users\emrec\Desktop\Jmeter\JmeterTests\jmx
+2021-01-13 15:03:37,734 INFO o.a.j.JMeter: PWD       =C:\Users\emrec\Desktop\Jmeter\JmeterTests\jmx
+2021-01-13 15:03:37,735 INFO o.a.j.JMeter: IP: 192.168.43.8 Name: LAPTOP-QI1O3O55 FullName: LAPTOP-QI1O3O55
+2021-01-13 15:03:37,852 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2021-01-13 15:03:38,259 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-01-13 15:03:39,262 WARN o.j.r.PluginManagerMenuCreator: Was unable to install pmgr cmdline tool
+java.nio.file.AccessDeniedException: C:\Program Files\Apache Software Foundation\apache-jmeter-5.4\bin\PluginsManagerCMD.bat
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:274) ~[?:?]
+	at sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:110) ~[?:?]
+	at java.nio.file.Files.deleteIfExists(Files.java:1185) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3132) ~[?:?]
+	at org.jmeterplugins.repository.PluginManagerCMDInstaller.writeOut(PluginManagerCMDInstaller.java:24) ~[jmeter-plugins-manager-1.6.jar:?]
+	at org.jmeterplugins.repository.PluginManagerCMDInstaller.main(PluginManagerCMDInstaller.java:12) ~[jmeter-plugins-manager-1.6.jar:?]
+	at org.jmeterplugins.repository.PluginManagerMenuCreator.getMenuItemsAtLocation(PluginManagerMenuCreator.java:16) [jmeter-plugins-manager-1.6.jar:?]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.addPluginsMenuItems(JMeterMenuBar.java:595) [ApacheJMeter_core.jar:5.4]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.makeOptionsMenu(JMeterMenuBar.java:342) [ApacheJMeter_core.jar:5.4]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.createMenuBar(JMeterMenuBar.java:202) [ApacheJMeter_core.jar:5.4]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.<init>(JMeterMenuBar.java:117) [ApacheJMeter_core.jar:5.4]
+	at org.apache.jmeter.gui.MainFrame.init(MainFrame.java:514) [ApacheJMeter_core.jar:5.4]
+	at org.apache.jmeter.gui.MainFrame.<init>(MainFrame.java:231) [ApacheJMeter_core.jar:5.4]
+	at org.apache.jmeter.JMeter.startGui(JMeter.java:410) [ApacheJMeter_core.jar:5.4]
+	at org.apache.jmeter.JMeter.start(JMeter.java:560) [ApacheJMeter_core.jar:5.4]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:254) [ApacheJMeter.jar:5.4]
+2021-01-13 15:03:39,410 INFO o.j.r.JARSourceHTTP: Found cached repo
+2021-01-13 15:03:39,548 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-functions=2.1, jpgc-casutg=2.9, jpgc-dummy=0.4, jpgc-ffw=2.0, jpgc-fifo=0.2, jpgc-perfmon=2.1, jpgc-plugins-manager=1.6, jpgc-tst=2.5, jmeter-core=5.4, jmeter-ftp=5.4, jmeter-http=5.4, jmeter-jdbc=5.4, jmeter-jms=5.4, jmeter-junit=5.4, jmeter-java=5.4, jmeter-ldap=5.4, jmeter-mail=5.4, jmeter-mongodb=5.4, jmeter-native=5.4, jmeter-tcp=5.4, jmeter-components=5.4, jpgc-standard=2.0]

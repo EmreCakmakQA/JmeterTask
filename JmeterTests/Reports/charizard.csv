@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1610452173329,348,HTTP Request,200,OK,Google pokemon 1-1,text,true,,246803,272,3,3,https://pokeapi.co/api/v2/pokemon/charizard,81,0,0
+1610452173329,81,HTTP Request-0,301,Moved Permanently,Google pokemon 1-1,,true,,613,136,3,3,http://pokeapi.co/api/v2/pokemon/charizard,81,0,0
+1610452173410,267,HTTP Request-1,200,OK,Google pokemon 1-1,text,true,,246190,136,3,3,https://pokeapi.co/api/v2/pokemon/charizard,90,0,0
+1610452173851,604,HTTP Request,200,OK,Google pokemon 1-2,text,true,,246809,272,4,4,https://pokeapi.co/api/v2/pokemon/charizard,78,0,0
+1610452173851,78,HTTP Request-0,301,Moved Permanently,Google pokemon 1-2,,true,,621,136,4,4,http://pokeapi.co/api/v2/pokemon/charizard,78,0,0
+1610452173929,526,HTTP Request-1,200,OK,Google pokemon 1-2,text,true,,246188,136,4,4,https://pokeapi.co/api/v2/pokemon/charizard,107,0,0
+1610452174658,815,HTTP Request,200,OK,Google pokemon 1-3,text,true,,246795,272,5,5,https://pokeapi.co/api/v2/pokemon/charizard,77,0,0
+1610452174658,77,HTTP Request-0,301,Moved Permanently,Google pokemon 1-3,,true,,611,136,5,5,http://pokeapi.co/api/v2/pokemon/charizard,77,0,0
+1610452174735,738,HTTP Request-1,200,OK,Google pokemon 1-3,text,true,,246184,136,5,5,https://pokeapi.co/api/v2/pokemon/charizard,101,0,0
+1610452177572,1267,HTTP Request,200,OK,Google pokemon 1-4,text,true,,246805,272,7,7,https://pokeapi.co/api/v2/pokemon/charizard,99,0,0
+1610452177572,99,HTTP Request-0,301,Moved Permanently,Google pokemon 1-4,,true,,617,136,7,7,http://pokeapi.co/api/v2/pokemon/charizard,99,0,0
+1610452177671,1168,HTTP Request-1,200,OK,Google pokemon 1-4,text,true,,246188,136,7,7,https://pokeapi.co/api/v2/pokemon/charizard,211,0,0
+1610452177650,1213,HTTP Request,200,OK,Google pokemon 1-5,text,true,,246805,272,6,6,https://pokeapi.co/api/v2/pokemon/charizard,123,0,0
+1610452177650,123,HTTP Request-0,301,Moved Permanently,Google pokemon 1-5,,true,,615,136,6,6,http://pokeapi.co/api/v2/pokemon/charizard,123,0,0
+1610452177773,1090,HTTP Request-1,200,OK,Google pokemon 1-5,text,true,,246190,136,6,6,https://pokeapi.co/api/v2/pokemon/charizard,436,0,0
+1610452178792,998,HTTP Request,200,OK,Google pokemon 1-7,text,true,,246797,272,5,5,https://pokeapi.co/api/v2/pokemon/charizard,177,0,0
+1610452178792,177,HTTP Request-0,301,Moved Permanently,Google pokemon 1-7,,true,,611,136,5,5,http://pokeapi.co/api/v2/pokemon/charizard,177,0,0
+1610452178969,821,HTTP Request-1,200,OK,Google pokemon 1-7,text,true,,246186,136,5,5,https://pokeapi.co/api/v2/pokemon/charizard,129,0,0
+1610452178806,1126,HTTP Request,200,OK,Google pokemon 1-8,text,true,,246805,272,4,4,https://pokeapi.co/api/v2/pokemon/charizard,183,0,0
+1610452178806,183,HTTP Request-0,301,Moved Permanently,Google pokemon 1-8,,true,,619,136,4,4,http://pokeapi.co/api/v2/pokemon/charizard,183,0,0
+1610452178989,943,HTTP Request-1,200,OK,Google pokemon 1-8,text,true,,246186,136,4,4,https://pokeapi.co/api/v2/pokemon/charizard,203,0,0
+1610452178857,1087,HTTP Request,200,OK,Google pokemon 1-6,text,true,,246811,272,3,3,https://pokeapi.co/api/v2/pokemon/charizard,179,0,0
+1610452178857,179,HTTP Request-0,301,Moved Permanently,Google pokemon 1-6,,true,,621,136,3,3,http://pokeapi.co/api/v2/pokemon/charizard,179,0,0
+1610452179036,908,HTTP Request-1,200,OK,Google pokemon 1-6,text,true,,246190,136,3,3,https://pokeapi.co/api/v2/pokemon/charizard,513,0,0
+1610452180242,376,HTTP Request,200,OK,Google pokemon 1-9,text,true,,246811,272,2,2,https://pokeapi.co/api/v2/pokemon/charizard,77,0,0
+1610452180242,77,HTTP Request-0,301,Moved Permanently,Google pokemon 1-9,,true,,621,136,2,2,http://pokeapi.co/api/v2/pokemon/charizard,77,0,0
+1610452180319,299,HTTP Request-1,200,OK,Google pokemon 1-9,text,true,,246190,136,2,2,https://pokeapi.co/api/v2/pokemon/charizard,96,0,0
+1610452179929,746,HTTP Request,200,OK,Google pokemon 1-10,text,true,,246801,272,1,1,https://pokeapi.co/api/v2/pokemon/charizard,83,0,0
+1610452179929,83,HTTP Request-0,301,Moved Permanently,Google pokemon 1-10,,true,,615,136,1,1,http://pokeapi.co/api/v2/pokemon/charizard,83,0,0
+1610452180012,663,HTTP Request-1,200,OK,Google pokemon 1-10,text,true,,246186,136,1,1,https://pokeapi.co/api/v2/pokemon/charizard,133,0,0
